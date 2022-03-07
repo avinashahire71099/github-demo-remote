@@ -6,7 +6,7 @@ def add(x,y):
  
 #subtract implementation 
 def subtract(x,y):
-    return x-y       #on master branch
+    return x*y      #on master branch
     
     #multi implementation
 def multiply(x,y):
