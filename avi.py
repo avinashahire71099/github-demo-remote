@@ -10,7 +10,7 @@ def subtract(x,y):
     
     #multi implementation
 def multiply(x,y):
-    return x*y  #implemented bug 456 multipy function
+    return x-y  #implemented bug 456 multipy function
     
     #div implementation
 def divide(x,y):
